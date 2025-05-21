@@ -1,4 +1,4 @@
-# griculture-FoodTech-RuralDevelopment.
+# Agriculture-FoodTech-RuralDevelopment.
 This research focuses on developing an AI-ML model that predicts the prices
  of agriculture- horticultural commodities such as pulses and vegetables.
  Traditional methods fail to capture the volatility caused by market dynamics,
