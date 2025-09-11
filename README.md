@@ -6,3 +6,4 @@ This research focuses on developing an AI-ML model that predicts the prices
  incorporate multiple datasets including historical price data, weather
  patterns, crop yields, and global market trends to offer accurate price
  forecasts.
+ 
